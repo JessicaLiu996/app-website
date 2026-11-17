@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Website"
+  short_description: "Build product websites from real app assets"
+  default_prompt: "Use $app-website to review the current project and propose the next useful step."
